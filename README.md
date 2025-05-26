@@ -46,3 +46,5 @@ contract SoulMintToken is ERC20, Ownable {
         _burn(msg.sender, amount * 10 ** decimals());
     }
 }
+
+![image](https://github.com/user-attachments/assets/ff27e7c8-0078-4488-ad71-e8256f4da89a)
