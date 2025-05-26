@@ -23,6 +23,8 @@ SoulMintToken enables the **owner** to mint new tokens while allowing **any user
 ---
 
 ## Contract Address:	0x348477a5117b3e0ad47a7a22f2e64e4b3523d673
+![image](https://github.com/user-attachments/assets/3b0d04d7-df98-47ed-b3d9-36b43d3b7ae4)
+
 
 ## 📄 Smart Contract Code
 
@@ -47,4 +49,3 @@ contract SoulMintToken is ERC20, Ownable {
     }
 }
 
-![image](https://github.com/user-attachments/assets/ff27e7c8-0078-4488-ad71-e8256f4da89a)
